@@ -2,10 +2,6 @@
 
 My first project.
 
-Here, I will demonstrate the HTML skill I have learned so far.
+In this project, I will demonstrate the HTML skills I have learned so far.
 
-This will include:
-Setting up a HTML page
-Creating links and adding images
-Adding comments to code
-Committing changes to git and writing comments
+This will include setting up a HTML page, creating links, adding images and using git.
